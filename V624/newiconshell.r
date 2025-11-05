@@ -1,1 +1,0 @@
-include "new_icons.rsrc";include "new_settingsicons.rsrc";include "new_toolbaricons.rsrc";

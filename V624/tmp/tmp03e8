@@ -1,1 +1,0 @@
-<>;<>;while(<>){s/^[A-Za-z]+/extern $&/;s/ = .*/;/;s/^\s*{.*\n//;print;}

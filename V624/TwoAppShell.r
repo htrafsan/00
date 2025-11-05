@@ -1,1 +1,0 @@
-include "30.rsrc";include "common.rsrc";include "Help.rsrc";include "SettingsTwo.rsrc";include "Two.rsrc";

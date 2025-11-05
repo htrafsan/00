@@ -1,1 +1,0 @@
-#define GENERATINGPPC	0#define GENERATING68K	1

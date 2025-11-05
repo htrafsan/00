@@ -1,1 +1,0 @@
-#define LIGHT#include "conf.h"#include "SysTypes.r"#include "Types.r"#include "BalloonTypes.r"#include "AERegistry.r"#include "AEUserTermTypes.r"type 'STH#' as 'STR#';#include "Common.r"#include "Two.r"#include "FiltDefs.r"

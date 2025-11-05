@@ -1,1 +1,0 @@
-#define GENERATINGCFM	1
