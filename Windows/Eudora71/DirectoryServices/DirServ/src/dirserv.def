@@ -1,7 +1,0 @@
-LIBRARY 	DirServ
-
-EXPORTS         DllRegisterServer       PRIVATE
-                DllUnregisterServer     PRIVATE
-		DllGetClassObject       PRIVATE
-		DllCanUnloadNow         PRIVATE
-

@@ -1,6 +1,0 @@
-; Status.def : Declares the module parameters for the DLL.
-
-LIBRARY      "Status"
-DESCRIPTION  'Status Windows Dynamic Link Library'
-
-EXPORTS

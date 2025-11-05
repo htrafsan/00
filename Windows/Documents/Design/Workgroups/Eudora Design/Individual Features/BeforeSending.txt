@@ -1,4 +1,0 @@
-• Before Sending filters
-	• Add “Remove from queue” action to allow filter to abort sending process
-	• Run “Make Personality” and “Make Priority” and “Remove from Queue” actions at send time.
-	• All other actions taken AFTER sending

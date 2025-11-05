@@ -1,1 +1,0 @@
-This directory is intended to hold documents describing Eudora's architecture and internals.
